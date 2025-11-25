@@ -65,5 +65,5 @@ Explorando soluciones donde **IA, creatividad y análisis de datos** convergen p
 ---
 
 ## 📫 Conecta conmigo  
-[LinkedIn](https://www.linkedin.com/in/elaruiz/)  
-[GitHub](https://github.com/ela-art)
+www.linkedin.com/in/elaruiz
+
