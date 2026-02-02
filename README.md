@@ -38,7 +38,7 @@ Integro **análisis avanzado, visualización, storytelling y calidad del dato** 
 
 ## 🧠 Proyectos destacados
 
-### 🔹 [Proyecto Portfolio: Análisis del Teatro Musical en España (En curso)](https://github.com/ela-art/Evolucion_teatro_spain)  
+### 🔹 [Proyecto Portfolio: Análisis del Teatro Musical en España](https://github.com/ela-art/Evolucion_teatro_spain)  
 Estudio completo del sector del teatro musical español:  
 – Limpieza y estructuración avanzada de datos sobre obras, productoras, giras y recaudaciones.  
 – Creación de datasets propios.  
