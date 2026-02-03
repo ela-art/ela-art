@@ -1,8 +1,6 @@
 # 👋 Hola, soy Ela Ruiz González  
 
-🎭 **Artista de teatro musical** reinventada en **analista de datos**, con una trayectoria que combina disciplina escénica, 
-pensamiento analítico y una capacidad inusual para convertir datos en historias que impulsan decisiones.
-
+🎭 
 ## Sobre mí  
 Soy Analista de Datos con background en artes escénicas.
 Integro **análisis avanzado, visualización, storytelling y calidad del dato** para generar información útil, precisa y accionable.
