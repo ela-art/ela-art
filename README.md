@@ -21,7 +21,7 @@ Integro **análisis avanzado, visualización, storytelling y calidad del dato** 
 - **Data Analysis & EDA completos**  
 - **IA aplicada (prompt engineering, análisis asistido, automatización ligera)**  
 - **Visualización con Python (Matplotlib, Seaborn)**  
-- **Excel**
+
 
 ---
 
