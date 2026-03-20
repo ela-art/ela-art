@@ -17,18 +17,11 @@ Data Analyst con background en artes escénicas. Experiencia en análisis de dat
 - IA aplicada (automatización y soporte al análisis de datos)  
 
 ## Projects  
+Análisis del Teatro Musical en España (2010–2026)
+End-to-end: dataset propio, EDA, modelo estrella en Power BI y análisis de pricing, producción y demanda.
 
-**Análisis del Teatro Musical en España**  
-https://github.com/ela-art/Evolucion_teatro_spain  
-Proyecto end-to-end: construcción de dataset propio, EDA, modelo estrella en Power BI y análisis de pricing, producción y demanda.  
-
-**AI Power BI Project**  
-https://github.com/ela-art/Proyecto_AI-Power-bi  
-Análisis de adopción global de IA con dashboard interactivo orientado a impacto económico.  
-
-**Transformando Talento**  
-https://github.com/ela-art/proyecto-transformando-talento  
-Análisis de satisfacción laboral y retención de empleados mediante EDA y visualización.  
+Brazilian E-commerce SQL Analysis
+Análisis en SQL del dataset Olist para entender ventas, comportamiento de clientes y operaciones.
 
 ## Value Proposition  
 Capacidad para traducir datos complejos en insights accionables, combinando rigor analítico, visión de negocio y comunicación clara.  
