@@ -1,33 +1,32 @@
 
-
 # Ela Ruiz González  
-Data Analyst  
+## Junior Data Analyst  
 
-## About  
-Data Analyst con background en artes escénicas. Experiencia en análisis de datos end-to-end: limpieza, modelado, visualización y comunicación de insights orientados a negocio.  
+### About  
+Junior Data Analyst with a hybrid background in performing arts and data analytics. I work across the full analytical workflow, from data cleaning and exploration to modeling, visualization, and business insight generation. My focus is on turning complex data into clear, actionable insights that support better decisions.
 
-## Core Skills  
+### Core Skills  
 - Python (Pandas, NumPy)  
-- SQL (queries, joins, data modeling)  
-- Power BI (dashboards, modelo estrella, reporting)  
-- Tableau (visualización y análisis exploratorio)  
-- Data Cleaning & Data Wrangling  
-- EDA y generación de insights  
-- Visualización con Python (Matplotlib, Seaborn)  
-- IA aplicada (automatización y soporte al análisis de datos)  
+- SQL (queries, joins, aggregations, data modeling)  
+- Power BI (dashboards, star schema, reporting)  
+- Tableau (data visualization and exploratory analysis)  
+- Data cleaning and data wrangling  
+- Exploratory Data Analysis (EDA) and insight generation  
+- Data visualization with Matplotlib and Seaborn  
+- Applied AI for automation and analytical support  
 
-## Projects  
-Análisis del Teatro Musical en España (2010–2026)
-End-to-end: dataset propio, EDA, modelo estrella en Power BI y análisis de pricing, producción y demanda.
+### Projects  
+**Musical Theatre Analysis in Spain (2010–2026)**  
+End-to-end analytics project built on a custom dataset. Includes data preparation, exploratory analysis, data modeling in Power BI, and business insight generation around pricing, production dynamics, and audience demand.
 
-Brazilian E-commerce SQL Analysis
-Análisis en SQL del dataset Olist para entender ventas, comportamiento de clientes y operaciones.
+**Brazilian E-commerce SQL Analysis**  
+SQL-based analysis of the Olist dataset focused on sales performance, customer behavior, and operational patterns. The project combines relational analysis, aggregations, and business-oriented interpretation.
 
-## Value Proposition  
-Capacidad para traducir datos complejos en insights accionables, combinando rigor analítico, visión de negocio y comunicación clara.  
+### Value Proposition  
+I bring together analytical thinking, business perspective, and strong communication skills to translate data into insights that are both rigorous and easy to understand.
 
-## Currently Learning  
-Product Analytics, IA aplicada a producto y automatización con Python.  
+### Currently Learning  
+Product Analytics, AI for product, and Python-based automation.
 
-## Contact  
+### Contact  
 LinkedIn: www.linkedin.com/in/elaruiz
