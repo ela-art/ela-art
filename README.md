@@ -18,15 +18,18 @@ My focus: turning raw data into clear, actionable insights that drive better dec
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - SQL (MySQL, joins, aggregations, data modeling)
 - Excel
+
 **BI & Visualization**
 - Power BI (DAX, Power Query, dashboards, star schema)
 - Tableau (visual analytics, storytelling)
+
 **Workflow & Tools**
 - End-to-end EDA pipelines
 - ETL processes and Python–SQL integration
 - Git / GitHub
 - Jupyter Notebook · VS Code
 - Applied AI for automation and analytical support (ChatGPT, Claude, Copilot, Grok)
+
 **Methodologies**
 - Data Storytelling
 - Scrum / Agile
