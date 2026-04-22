@@ -7,7 +7,7 @@ Madrid, Spain · Open to hybrid and remote opportunities
 
 Once I read audiences from a stage. Now I read them through data.
 
-Junior Data Analyst with a background in performing arts and live entertainment. I know what it means to understand an audience, make decisions under pressure, and communicate complex ideas with clarity — and now I do it with Python, SQL, Power BI and Tableau.
+Data Analyst with a background in performing arts and live entertainment. I know what it means to understand an audience, make decisions under pressure, and communicate complex ideas with clarity — and now I do it with Python, SQL, Power BI and Tableau.
 
 **My focus:** turning raw data into clear, actionable insights that drive better decisions.
 
