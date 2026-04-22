@@ -16,7 +16,7 @@ Data Analyst with a background in performing arts and live entertainment. I know
 ## Core Skills
 
 **Languages & Analysis**
-Python (Pandas, NumPy, Matplotlib, Seaborn) · SQL (MySQL) · Excel
+Python (Pandas, NumPy, Matplotlib, Seaborn) · SQL (MySQL)
 
 **BI & Visualization**
 Power BI (DAX, Power Query, dashboards) · Tableau
@@ -24,7 +24,7 @@ Power BI (DAX, Power Query, dashboards) · Tableau
 **Workflow & Tools**
 Git / GitHub · Jupyter Notebook · VS Code · ETL processes · EDA pipelines
 
-**AI-assisted workflows**
+**Productivity & AI tools**
 Comfortable using AI tools (ChatGPT, Claude, Copilot) to support research, code review, and analytical tasks.
 
 ---
@@ -43,13 +43,13 @@ SQL-based analysis focused on sales performance, customer behavior, and operatio
 Analysis of the global AI ecosystem across 62 countries. Relationship between economic growth, technological innovation, and human preparedness. Python EDA + Power BI dashboards.
 [View project](https://github.com/ela-art/Panorama-Mundial-de-la-Inteligencia-Artificial-2024)
 
-**Transformando Talento — Employee Churn Analysis**
-EDA project focused on identifying employee satisfaction patterns and churn risk through segmentation and key variable analysis.
+**Talent Retention — Employee Churn Analysis**
+End-to-end EDA project focused on identifying employee satisfaction patterns and churn risk through segmentation and key variable analysis.
 [View project](https://github.com/ela-art/proyecto-transformando-talento)
 
-**Keyword Search Prep — Data Cleaning & Normalization**
-Data cleaning and normalization pipeline applied to a synthetic dataset of global companies. Goal: prepare text data for accurate keyword search across all records.
-[View project](https://github.com/ela-art/Proyecto_keyword_search_prep)
+**Technical Assessments — Python & SQL**
+Three technical evaluations covering Python OOP (online store simulation), SQL queries on the Sakila database, and end-to-end EDA on airline loyalty data. Python · SQL · Pandas · Seaborn · SciPy.
+[View project](https://github.com/ela-art/Evaluaciones_analisis_de_datos)
 
 ---
 
